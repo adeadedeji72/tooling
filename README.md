@@ -73,4 +73,5 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Will the automation work?
+Will the automation work? 
+Did it work?
