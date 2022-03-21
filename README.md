@@ -77,3 +77,4 @@ Will the automation work?
 Did it work?
 Automation should work now
 Its definitely working!
+Transfer over SSH to NFS
